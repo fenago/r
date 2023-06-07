@@ -23,3 +23,5 @@ A pencil or pen, plus RStudio and R installed on your machine.
 
 Fill in the table provided with the class and type of each variable.
 Use the class() or typeof() functions if you get stuck, but first try and fill it in without the code!
+
+Solution:  https://github.com/fenago/r/blob/main/lesson1/lesson1_activityB1.R

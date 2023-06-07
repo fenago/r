@@ -19,3 +19,5 @@ Note that msleep is a built-in dataset in the ggplot2 package. We'll use R built
 4. Save the global image of the environment for use later use.
 
 This activity was crucial. We've added a dataset and the Tidyverse packages to the project we intend to use for the rest of the book. We've also saved a copy of our global environment to our working directory. The Tidyverse packages, dplyr, ggplot2, tidyr, and a few others, will be very helpful throughout this book and in your data science work.
+
+Solution:  https://github.com/fenago/r/blob/main/lesson1/lesson1_activityA.R

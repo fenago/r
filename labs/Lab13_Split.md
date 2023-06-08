@@ -25,3 +25,5 @@ Make sure you have R and RStudio installed on your machine.
 
 - letters2 dataset:
 ![alt text](split2.png "Title")
+
+Solution:  https://github.com/fenago/r/blob/main/lesson3/lesson3_activityC1.R

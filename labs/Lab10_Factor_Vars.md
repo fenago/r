@@ -23,3 +23,5 @@ Make sure you have R and RStudio installed on your machine.
 - Examine the dataset with str().
 - Turn all of the character variables into factor variables using the apply() method for changing many variables at once.
 - Check your work with str().
+
+Solution:  https://github.com/fenago/r/blob/main/lesson3/lesson3_activityB2.R

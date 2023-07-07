@@ -16,6 +16,7 @@ area_triangle(148488383, 8)
 getwd()
 
 #change working directory
-setwd("/a location/on the computer/you're using")
+# setwd("/a location/on the computer/you're using")
 
 save.image("lesson1_demo.RData")
+list.files(recursive = TRUE)
